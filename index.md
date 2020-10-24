@@ -1,10 +1,8 @@
-Esta página describe varias de las operaciones que pueden realizarse con el gestor de contenidos del sitio Web Azul
-Ciudad Cervantina ([ciudadcervantina.org.ar](http://ciudadcervantina.org.ar/v2016/)).
+Esta página describe varias de las operaciones que pueden realizarse con el gestor de contenidos del sitio Web **Azul Ciudad Cervantina** ([ciudadcervantina.org.ar](http://ciudadcervantina.org.ar/v2016/)).
 
 #### Perfiles de usuario
 
-Algunas de las imágenes que se muestran en estas páginas pueden variar en sus contenidos ya que muchas de las
-operaciones que cada usuario puede realizar dependente directamente del perfíl con el cual se accesa.
+Algunas de las imágenes que se muestran en estas páginas pueden variar en sus contenidos ya que muchas de las operaciones que cada usuario puede realizar dependenten directamente del perfíl con el cual se accede.
 
 ## Menú de contenidos
 
