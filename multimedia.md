@@ -23,17 +23,19 @@ En esta pantalla podrá visualizar todos los archivos subidos hasta el momento. 
 
 ![Multimedia](biblioteca-multimedia.png)
 
-> Utilice el botón **Selección en lotes** para marcar más de un archivo a eliminar definitivamente.
+Utilice el botón **Selección en lotes** para marcar más de un archivo a eliminar definitivamente.
 
 Haga clic sobre un archivo para ver una vista previa del mismo.
 
 ![Detalles archivo](detalles-archivo.png)
 
-> Puede editar el **texto alternativo** y **título** utilizados en el resto del sitio.
+Puede editar el **texto alternativo** y **título** utilizados en el resto del sitio.
 
-> Haga clic sobre **Borrar permanentemente** para eliminar el archivo físicamente del servidor. Recuerde que al realizar esta operación implica deshacer todas las referencias al archivo en los artículos publicados .
+Haga clic sobre **Borrar permanentemente** para eliminar el archivo físicamente del servidor.
 
-> Utilice el botón **Editar imagen** para recortar, rotar o voltear la imagen seleccionada.
+> Recuerde que al eliminar definitivamente un archivo implica deshacer todas las referencias al mismo en los artículos publicados.
+
+Utilice el botón **Editar imagen** para recortar, rotar o voltear la imagen seleccionada.
 
 
 ## Subir archivos<a name="subir-archivos"></a>

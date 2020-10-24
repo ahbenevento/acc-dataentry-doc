@@ -44,7 +44,7 @@ Para editar una entrada puede hacer clic sobre el nombre de la misma, o utilizar
 
 Esta documentación le servirá tanto para la carga como para la edición de noticias, artículos y eventos.
 
-De forma predeterminada, los datos solicitados en la pantalla son los necesarios para registrar un nuevo evento dentro del **Festival Cervantino**. Los campos a completar se ajustarán automaticamente con solo seleccionar una categoría de la lista (ubicada en la columna dercha).
+De forma predeterminada, los datos solicitados en la pantalla son los necesarios para registrar un nuevo evento dentro del **Festival Cervantino**. Los campos a completar se ajustarán automáticamente con solo seleccionar una categoría de la lista (ubicada en la columna derecha).
 
 ![Seleccionar categoría](seleccionar-categoria.png)
 

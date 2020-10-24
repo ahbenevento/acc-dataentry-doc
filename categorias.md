@@ -24,7 +24,7 @@ Puede crear una nueva categoría simplemente escribiendo su nombre. El **slug** 
 
 Si en realidad lo que está cargando es una subcategoría de otra, puede indicar su categorías "padre" o principal desde la lista **Categoría superior**.
 
-Por último puede agregar una descripción. Este sitio no la utiliza pero puede servir para indicar obervaciones o recordatorios.
+Por último puede agregar una descripción. Este sitio no la utiliza pero puede servir para indicar observaciones o recordatorios.
 
 ![Categorías](categorias.png)
 
