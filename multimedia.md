@@ -48,6 +48,8 @@ Puede arrastrar una lista de archivos seleccionados desde su *explorador de arch
 
 ![Subir archivos](agregar-multimedia2.png)
 
+> Es muy recomendable que todas las imágenes tengan un tamaño **menor a 1 MB.** para que no incida directamente en la velocidad de carga del sitio Web.
+
 ---
 
 [- Regresar al inicio](index.md)
