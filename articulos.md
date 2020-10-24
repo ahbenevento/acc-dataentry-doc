@@ -49,6 +49,8 @@ De forma predeterminada, los datos solicitados en la pantalla son los necesarios
 
 ![Seleccionar categoría](seleccionar-categoria.png)
 
+> Recuerde que es **necesario y obligatorio** seleccionar al menos una categoría para cualquier tipo de contenido que desee publicar.
+
 #### Agregando noticias, artículos, etc.
 
 En este tipo de entradas los datos necesarios son:
