@@ -8,7 +8,6 @@
     1.  [Imágenes](#multimedia)
     2.  [Adjuntar archivos](#adjuntar-archivos)
     3.  [Publicar](#publicar)
-4.  [Categorías](#categorias)
 
 ---
 
@@ -21,9 +20,9 @@ Todos los contenidos del sitio Web, noticias, eventos, etc. son definidos como *
 -   Lugares
 -   Tipos de eventos
 
-> Las **categorías** definen el lugar donde las publicaciones son visualizadas. También pueden indicar el cómo serán visualizadas.
+Las **categorías** definen el lugar donde las publicaciones son visualizadas. **Lugares** y **tipos de eventos** son datos relevantes únicamente para la carga de eventos dentro del marco del Festival Cervantino.
 
-> **Lugares** y **tipos de eventos** son datos relevantes únicamente para la carga de eventos dentro del marco del Festival Cervantino.
+> Para más información visite [Categorías y otras tablas auxiliares](categorias.md).
 
 
 ## Listado y gestión de contenidos<a name="listado-gestion-contenidos"></a>
@@ -78,7 +77,7 @@ Puede utilizar el botón **Agregar objeto** para insertar una o más imágenes d
 
 ![Agregar multimedia](agregar-multimedia.png)
 
-> Mantenga presionada la tecla **CTRL** para seleccionar más de una imagen. Haga clic en la solapa **Subir archivos** para incorporar a la biblioteca multimedia aquellas imágenes que tenga en su computadora.
+Mantenga presionada la tecla **CTRL** para seleccionar más de una imagen. Haga clic en la solapa **Subir archivos** para incorporar a la biblioteca multimedia aquellas imágenes que tenga en su computadora.
 
 ### Adjuntar archivos<a name="adjuntar-archivos"></a>
 
@@ -86,7 +85,7 @@ Si fuese necesario adjuntar archivos a la entrada (PDF, documentos, etc.) puede 
 
 ![Herramienta para vincular archivos](wp-better-attachments.png)
 
-> Utilice el botón **Add Attachments** para subir y/o seleccionar los archivos. Puede desvincular un archivo haciendo clic en **Un-attach**. También es posible eliminar definitivamente el archivo cliqueando sobre la opción **Delete**.
+Utilice el botón **Add Attachments** para subir y/o seleccionar los archivos. Puede desvincular un archivo haciendo clic en **Un-attach**. También es posible eliminar definitivamente el archivo cliqueando sobre la opción **Delete**.
 
 ### Publicar<a name="publicar"></a>
 
@@ -96,30 +95,10 @@ Puede utilizar también el botón **Vista previa** para conocer cómo se termina
 
 Si fuera necesario puede editar la fecha en que este contenido deberá publicarse. De esta forma los usuarios no verán esta publicación hasta ese momento.
 
-## Categorías<a name="categorias"></a>
-
-> Acceso: **Menú lateral** / **Entradas** / **Categorías**
-
-Las categorías definen ubicaciones dentro del sitio Web donde las entradas podrán visualizarse. Algunas de esas ubicaciones pueden visualizar de forma diferente sus entradas.
-
-Puede crear una nueva categorías simplemente escribiendo su nombre. El **slug** es la versión amigable en la dirección Web del nombre. Suele estar en minúsculas y contiene sólo letras, números y guiones. Deje en blanco este campo para que se genere automáticamente según el nombre de la nueva categoría.
-
-Si en realidad lo que está cargando es una subcategoría de otra, puede indicar su categorías "padre" o principal desde la lista **Categoría superior**.
-
-Por último puede agregar una descripción. Este sitio no la utiliza pero puede servir para indicar obervaciones o recordatorios.
-
-![Categorías](categorias.png)
-
-Así como con las entradas, puede seleccionar una o más categorías y luego aplicar una de las opciones del menú **Acciones por lote**.
-
-Puede editar una categoría haciendo clic sobre el nombre de la misma, o utilizar una de las opciones que se visualizarán al detener el mouse sobre ella.
-
-> Todo el funcionamiento descripto para la gestión de categorías es muy similar para las etiquetas, los lugares y tipos de evento. Por esta razón serán omitidas de esta ayuda.
-
 ---
 
 [- Regresar al inicio](index.md)
 
 ---
 
-Última actualización: **24/10/2020**. Desarrollado por **[Pragmática](http://pragmatica.com.ar)**.
+Última actualización: **24/10/2020**. Realizado por **[Pragmática](http://pragmatica.com.ar)**.

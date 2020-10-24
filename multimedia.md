@@ -31,9 +31,9 @@ Haga clic sobre un archivo para ver una vista previa del mismo.
 
 > Puede editar el **texto alternativo** y **título** utilizados en el resto del sitio.
 
-> Haga clic sobre **Borrar permanentemente** para eliminar el archivo físicamente del servidor.
+> Haga clic sobre **Borrar permanentemente** para eliminar el archivo físicamente del servidor. Recuerde que al realizar esta operación implica deshacer todas las referencias al archivo en los artículos publicados .
 
-> Recuerde que al eliminar un archivo o imagen definitivamente implica deshacer todas las referencias al archivo en los artículos publicados .
+> Utilice el botón **Editar imagen** para recortar, rotar o voltear la imagen seleccionada.
 
 
 ## Subir archivos<a name="subir-archivos"></a>
@@ -52,4 +52,4 @@ Puede arrastrar una lista de archivos seleccionados desde su *explorador de arch
 
 ---
 
-Última actualización: **24/10/2020**. Desarrollado por **[Pragmática](http://pragmatica.com.ar)**.
+Última actualización: **24/10/2020**. Realizado por **[Pragmática](http://pragmatica.com.ar)**.
