@@ -3,15 +3,13 @@
 #### Resumen
 
 1.  [Visión general](#vision-general)
-2.  [Listado y gestión de contenidos](#listado-y-gestion-de-contenidos)
+2.  [Listado y gestión de contenidos](#listado-gestion-contenidos)
 
 ---
 
-## Visión general
+## Visión general<a name="vision-general"></a>
 
-Todos los contenidos del sitio Web, noticias, eventos, etc. son definidos como **entradas**.
-
-Mediante este menú también es posible gestionar:
+Todos los contenidos del sitio Web, noticias, eventos, etc. son definidos como **entradas**. Mediante el mismo menú también es posible gestionar:
 
 -   Categorías
 -   Etiquetas
@@ -22,15 +20,17 @@ Mediante este menú también es posible gestionar:
 
 > **Lugares** y **tipos de eventos** son datos relevantes únicamente para la carga de eventos dentro del marco del Festival Cervantino.
 
-## Listado y gestión de contenidos
+## Listado y gestión de contenidos<a name="listado-gestion-contenidos"></a>
 
 > Acceso: **Menú lateral** / **Entradas**
 
 Lista todas las entradas (también conocidas como publicaciones o artículos). Puede utilizar filtros para reducir la cantidad de elementos a visualizar: fechas, categorías, formatos.
 
-Si selecciona una o más entradas podrá utilizar el menú **Acciones por lote** para editar en lote, eliminar (mover a la papelera) o incluso clonar varias entradas.
+Si selecciona una o más entradas podrá utilizar el menú **Acciones por lote** para editar un grupo, eliminarlas (moverlas a la papelera) o incluso clonarlas.
 
 Para editar una entrada puede hacer clic sobre el nombre de la misma, o utilizar una de las opciones que se visualizará al detener el mouse sobre ella. 
+
+![Entradas](entradas.png)
 
 ---
 
