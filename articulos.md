@@ -57,5 +57,9 @@ Puede editar una categoría haciendo clic sobre el nombre de la misma, o utiliza
 
 ---
 
+[Regresar al inicio](index.md)
+
+---
+
 Última actualización: **24/10/2020**. Desarrollado por **[Pragmática](http://pragmatica.com.ar)**.
 

@@ -1,5 +1,5 @@
 Esta página describe varias de las operaciones que pueden realizarse con el gestor de contenidos del sitio Web Azul
-Ciudad Cervantina (([ciudadcervantina.org.ar](http://ciudadcervantina.org.ar/v2016/)).
+Ciudad Cervantina ([ciudadcervantina.org.ar](http://ciudadcervantina.org.ar/v2016/)).
 
 #### Perfiles de usuario
 
