@@ -4,9 +4,10 @@
 
 1.  [Visión general](#vision-general)
 2.  [Listado y gestión de contenidos](#listado-gestion-contenidos)
-3.  [Agregar/modificar](#agregar-modificar)
-    1.  [Agregando noticias, artículos, etc.](#agregar-articulos)
-    2.  [Agregando eventos del Festival Cervantino](#agregar-eventos)
+3.  [Agregar o modificar](#agregar-modificar)
+    1.  [Imágenes](#multimedia)
+    2.  [Adjuntar archivos](#adjuntar-archivos)
+    3.  [Publicar](#publicar)
 4.  [Categorías](#categorias)
 
 ---
@@ -38,7 +39,7 @@ Para editar una entrada puede hacer clic sobre el nombre de la misma, o utilizar
 ![Entradas](entradas.png)
 
 
-## Agregar/modificar<a name="agregar-modificar"></a>
+## Agregar o modificar<a name="agregar-modificar"></a>
 
 > Acceso: **Menú lateral** / **Entradas** / **Agregar nueva**
 
@@ -48,7 +49,7 @@ De forma predeterminada, los datos solicitados en la pantalla son los necesarios
 
 ![Seleccionar categoría](seleccionar-categoria.png)
 
-### Agregando noticias, artículos, etc.<a name="agregar-articulos"></a>
+#### Agregando noticias, artículos, etc.
 
 En este tipo de entradas los datos necesarios son:
 
@@ -56,7 +57,7 @@ En este tipo de entradas los datos necesarios son:
 -   Texto de la entrada.
 -   Una imagen destacada (preferentemente).
 
-### Agregando eventos del Festival Cervantino<a name="agregar-eventos"></a>
+#### Agregando eventos del Festival Cervantino
 
 Si selecciona de la lista de categorías una con la referencia al **Festival Cervantino** del año en curso, podrá notar como los campos del formulario cambian para permitir agregar un evento de este tipo.
 
@@ -69,7 +70,7 @@ Todos los eventos deben tener al menos los siguientes datos:
 
 En la medida de lo posible incluya una imagen destacada. El resto de la información solicitada es igual a cualquier otra entrada.
 
-#### Imágenes
+### Imágenes<a name="multimedia"></a>
 
 Puede utilizar el botón **Agregar objeto** para insertar una o más imágenes dentro del texto de la entrada.
 
@@ -77,7 +78,7 @@ Puede utilizar el botón **Agregar objeto** para insertar una o más imágenes d
 
 > Mantenga presionada la tecla **CTRL** para seleccionar más de una imagen. Haga clic en la solapa **Subir archivos** para incorporar a la biblioteca multimedia aquellas imágenes que tenga en su computadora.
 
-#### Adjuntar archivos
+### Adjuntar archivos<a name="adjuntar-archivos"></a>
 
 Si fuese necesario adjuntar archivos a la entrada (PDF, documentos, etc.) puede utilizar el apartado **WP Better Attachments** disponible dentro del mismo formulario.
 
@@ -85,7 +86,7 @@ Si fuese necesario adjuntar archivos a la entrada (PDF, documentos, etc.) puede 
 
 > Utilice el botón **Add Attachments** para subir y/o seleccionar los archivos. Puede desvincular un archivo haciendo clic en **Un-attach**. También es posible eliminar definitivamente el archivo cliqueando sobre la opción **Delete**.
 
-#### Publicar
+### Publicar<a name="publicar"></a>
 
 Todas las entradas pueden guardarse como borrador. De esta manera el contenido no será publicado y podrá editarlo en cualquier otro momento.
 
